@@ -6,10 +6,9 @@ This portfolio showcases my academic background, bioinformatics skills, programm
 
 ## 🌐 Live Portfolio
 
-🚀 **View the live website:**  
-[Alisha Ali Portfolio](my-portfolio-chi-green-89.vercel.app)
+🚀 **Visit my portfolio:**
 
-> Replace `YOUR_VERCEL_LINK_HERE` with your actual Vercel deployment URL.
+https://my-portfolio-chi-green-89.vercel.app/
 
 ---
 
@@ -176,6 +175,7 @@ A WordPress/WooCommerce e-commerce website featuring:
 ## 🎓 Education
 
 ### BS Bioinformatics
+
 **COMSATS University Islamabad**
 
 Relevant areas include:
